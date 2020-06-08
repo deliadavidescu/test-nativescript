@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "test-app"
+    }
+  },
+  "defaultProject": "test-app",
+  "cli": {
+    "defaultCollection": "@nativescript/schematics"
+  }
 }
